@@ -1,0 +1,172 @@
+{
+  "cats": [
+    {
+      "name": "Parker",
+      "image": "/images/1.jpg",
+      "cutenessLevel": 82,
+      "allergyInducingFur": false,
+      "livesLeft": 8
+    },
+    {
+      "name": "Savage",
+      "image": "/images/2.jpg",
+      "cutenessLevel": 47,
+      "allergyInducingFur": false,
+      "livesLeft": 2
+    },
+    {
+      "name": "Ginger",
+      "image": "/images/3.png",
+      "cutenessLevel": 20,
+      "allergyInducingFur": false,
+      "livesLeft": 9
+    },
+    {
+      "name": "Farrell",
+      "image": "/images/4.jpg",
+      "cutenessLevel": 76,
+      "allergyInducingFur": false,
+      "livesLeft": 1
+    },
+    {
+      "name": "Bruce",
+      "image": "/images/5.jpg",
+      "cutenessLevel": 96,
+      "allergyInducingFur": false,
+      "livesLeft": 9
+    },
+    {
+      "name": "Casey",
+      "image": "/images/6.jpg",
+      "cutenessLevel": 76,
+      "allergyInducingFur": true,
+      "livesLeft": 5
+    },
+    {
+      "name": "Logan",
+      "image": "/images/7.jpg",
+      "cutenessLevel": 36,
+      "allergyInducingFur": true,
+      "livesLeft": 8
+    },
+    {
+      "name": "Malinda",
+      "image": "/images/8.png",
+      "cutenessLevel": 93,
+      "allergyInducingFur": true,
+      "livesLeft": 8
+    },
+    {
+      "name": "Mercer",
+      "image": "/images/9.png",
+      "cutenessLevel": 28,
+      "allergyInducingFur": false,
+      "livesLeft": 1
+    },
+    {
+      "name": "Melisa",
+      "image": "/images/10.jpg",
+      "cutenessLevel": 42,
+      "allergyInducingFur": false,
+      "livesLeft": 2
+    },
+    {
+      "name": "Lorie",
+      "image": "/images/11.jpg",
+      "cutenessLevel": 59,
+      "allergyInducingFur": true,
+      "livesLeft": 8
+    },
+    {
+      "name": "Vickie",
+      "image": "/images/12.jpg",
+      "cutenessLevel": 22,
+      "allergyInducingFur": true,
+      "livesLeft": 5
+    },
+    {
+      "name": "Mosley",
+      "image": "/images/13.jpg",
+      "cutenessLevel": 74,
+      "allergyInducingFur": false,
+      "livesLeft": 2
+    },
+    {
+      "name": "Walsh",
+      "image": "/images/14.png",
+      "cutenessLevel": 81,
+      "allergyInducingFur": false,
+      "livesLeft": 7
+    },
+    {
+      "name": "Pitts",
+      "image": "/images/15.jpg",
+      "cutenessLevel": 97,
+      "allergyInducingFur": false,
+      "livesLeft": 2
+    },
+    {
+      "name": "Eugenia",
+      "image": "/images/16.jpg",
+      "cutenessLevel": 28,
+      "allergyInducingFur": true,
+      "livesLeft": 7
+    },
+    {
+      "name": "Petty",
+      "image": "/images/17.jpg",
+      "cutenessLevel": 77,
+      "allergyInducingFur": false,
+      "livesLeft": 7
+    },
+    {
+      "name": "Gina",
+      "image": "/images/18.jpg",
+      "cutenessLevel": 82,
+      "allergyInducingFur": true,
+      "livesLeft": 9
+    },
+    {
+      "name": "Alba",
+      "image": "/images/19.jpg",
+      "cutenessLevel": 58,
+      "allergyInducingFur": true,
+      "livesLeft": 8
+    },
+    {
+      "name": "Helga",
+      "image": "/images/20.jpg",
+      "cutenessLevel": 80,
+      "allergyInducingFur": false,
+      "livesLeft": 2
+    },
+    {
+      "name": "Ophelia",
+      "image": "/images/21.jpg",
+      "cutenessLevel": 79,
+      "allergyInducingFur": true,
+      "livesLeft": 3
+    },
+    {
+      "name": "Alejandra",
+      "image": "/images/22.png",
+      "cutenessLevel": 91,
+      "allergyInducingFur": true,
+      "livesLeft": 1
+    },
+    {
+      "name": "Claudette",
+      "image": "/images/23.jpg",
+      "cutenessLevel": 30,
+      "allergyInducingFur": true,
+      "livesLeft": 2
+    },
+    {
+      "name": "Grimes",
+      "image": "/images/24.jpg",
+      "cutenessLevel": 5,
+      "allergyInducingFur": false,
+      "livesLeft": 6
+    }
+  ]
+}
